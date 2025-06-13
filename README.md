@@ -1,2 +1,2 @@
 # Chatbot
-This is a chatbot application. Mainly use new module of langchain called langraph for developing this project.
+This is a simple chatbot application. Mainly use new module of langchain called langraph, langsmith and  Gemma2-9b-It LLM model from Groq platform for developing this project. This chatbot has good general knowledge like chatgpt, and  deep seek. Google Colab is the IDE or platform use for developing this.
